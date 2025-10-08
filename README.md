@@ -71,31 +71,19 @@ This repository contains project files developed for the **Matrix Dashboard Comp
 ---
 
 ## Results
-
-This project provided Phoenix Global with detailed insights into MBA student demographics, performance, and specialization trends, enabling them to **design tailored training programs**.
+This project provided Phoenix Global with detailed insights into MBA student demographics, performance, and specialization trends, enabling them to **design tailored training programs**.Our team secured **4th Rank** in this nationwide competition.
 
 ---
 
 ## Tools and Libraries
-
 -   **Python**: Pandas, Matplotlib, Plotly, Seaborn
 -   **Excel**: Data Cleaning & Wrangling
 -   **PowerPoint**: Visual presentation of results
-
 ---
 
 ## Contributors
-
 **Team: The Insightful Analysts**
 -   Musab Shaikh
 -   Pranav Patel
 -   Dhruvi Patel
-
----
-
-## Contact
-
-For queries or feedback, reach out to:
-**Musab Shaikh**: [GitHub Profile](https://github.com/smusab9152)
-
 ---
