@@ -1,5 +1,4 @@
-# Matrix Dashboard Competition Repository
-
+# Phoenix-Global-MBA-Skills-Analysis
 This repository contains project files developed for the **Matrix Dashboard Competition** organized by IIM Raipur. The objective was to analyze and visualize MBA student data to help Phoenix Global's skill development team identify key trends and create targeted training programs.
 
 ---
