@@ -81,7 +81,6 @@ This project provided Phoenix Global with detailed insights into MBA student dem
 ---
 
 ## Contributors
-**Team: The Insightful Analysts**
 -   [Musab Shaikh](https://github.com/smusab9152)
 -   [Pranav Patel](https://github.com/Dhruvigit)
 -   [Dhruvi Patel](https://github.com/PranavP4tel)
